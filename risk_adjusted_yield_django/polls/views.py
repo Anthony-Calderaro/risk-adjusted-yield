@@ -18,6 +18,6 @@ def results(request, question_id):
     return render(request, response % question_id, context)
 
 def vote(request, question_id):
-    return render(request, "You're voting at question %s." % question_id, context)
+    return render(request, "You're voting at question %s." % question_id, context) 
 
 
