@@ -7,7 +7,7 @@
 6. Make volatility calculation more accurate based on minute pricing 
 7. Make volatility calculation more accurate based on seconds pricing 
 8. Allow users to make profiles to save and track stocks
-9. Make reddit feature for feature voting
+9. Make reddit feature for feature voting 
 
 # Purpose
 Easily compare public stocks by the risk-adjusted-yield. 
